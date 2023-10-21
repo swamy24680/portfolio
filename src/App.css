@@ -1,0 +1,80 @@
+/* Reset default margin and padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set a background image or color */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2; /* Light gray background */
+}
+
+/* Center the content */
+.portfolio {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the header */
+.header {
+  background-color: #007bff;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 36px; /* Larger font size */
+}
+
+/* Style the content area */
+.content {
+  padding: 20px;
+}
+
+/* Style sections */
+.section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #007bff;
+  font-size: 28px; /* Slightly larger font size */
+}
+
+/* Style lists */
+ul {
+  list-style-type: none; /* Remove bullet points */
+}
+
+li {
+  margin-bottom: 10px; /* More space between list items */
+  font-size: 18px; /* Larger font size for list items */
+}
+
+/* Style links */
+a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold; /* Make links bold */
+}
+
+/* Add a hover effect to links */
+a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+/* Footer styles */
+.footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 14px; /* Smaller font size */
+}
