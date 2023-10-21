@@ -12,7 +12,7 @@ function App() {
         <section className="section">
           <h2>Introduction</h2>
           <p>
-            I'm Uday Sai Manoj, a B.Tech student with a passion for Artificial Intelligence and Machine Learning,from VIT-AP
+            I'm Narasimha Swamy, a B.Tech student with a passion for Block-Chain Learning,from VIT-AP
           </p>
         </section>
 
@@ -30,8 +30,8 @@ function App() {
         <section className="section">
           <h2>Projects</h2>
           <ul>
-            <li>Disease Diagnosis Through Multi-Modal Data Integration and Data Weighting Using Deep Learning</li>
-            <li>CrimeBot: Crime Registration and Awareness Web Application</li>
+            <li>"Playit" is a web-based application that serves as a Spotify clone, designed to replicate the core functionality and user experience of the popular music streaming platform</li>
+            <li>a user-friendly interface for searching and playing music, the ability to create and manage playlists, and a recommendation engine for suggesting new tracks based on user preferences. </li>
           </ul>
         </section>
         <section className="section">
@@ -45,7 +45,7 @@ function App() {
 
         <section className="section">
           <h2>Contact</h2>
-          <a href="mailto:udaysaimanoj14196@gmail.com">Email me</a>
+          <a href="mailto:kvlnarasimhaswamy@gmail.com">Email me</a>
         </section>
       </div>
     </div>

@@ -8,7 +8,7 @@
 /* Set a background image or color */
 body {
   font-family: Arial, sans-serif;
-  background-color: #f2f2f2; /* Light gray background */
+  background-color: #000000; /* Light gray background */
 }
 
 /* Center the content */
@@ -22,7 +22,7 @@ body {
 
 /* Style the header */
 .header {
-  background-color: #007bff;
+  background-color: #545353e6;
   color: #fff;
   padding: 20px;
   text-align: center;
@@ -44,7 +44,7 @@ body {
 }
 
 h2 {
-  color: #007bff;
+  color: #ffffff;
   font-size: 28px; /* Slightly larger font size */
 }
 
@@ -56,6 +56,7 @@ ul {
 li {
   margin-bottom: 10px; /* More space between list items */
   font-size: 18px; /* Larger font size for list items */
+  color: #ffffff;
 }
 
 /* Style links */
