@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="portfolio">
       <header className="header">
-        <h1>Uday Sai Manoj</h1>
+        <h1>Narasimha Swamy</h1>
       </header>
 
       <div className="content">

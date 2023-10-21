@@ -15,14 +15,14 @@ body {
 .portfolio {
   max-width: 800px;
   margin: 0 auto;
-  background-color: #fff;
+  background-color: #000000;
   border: 1px solid #ddd;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 /* Style the header */
 .header {
-  background-color: #545353e6;
+  background-color: #000000ef;
   color: #fff;
   padding: 20px;
   text-align: center;
@@ -31,6 +31,7 @@ body {
 .header h1 {
   margin: 0;
   font-size: 36px; /* Larger font size */
+  color: yellow;
 }
 
 /* Style the content area */
@@ -44,7 +45,7 @@ body {
 }
 
 h2 {
-  color: #ffffff;
+  color: yellow;
   font-size: 28px; /* Slightly larger font size */
 }
 
